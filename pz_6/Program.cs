@@ -14,11 +14,9 @@ namespace pz_6
             {
                 double y = x + b * x * Math.Sin(a);
                 Console.WriteLine($" x = {x} y = {y}");
-                x = Math.Round(x + h, 1 );
+                x = Math.Round(x + h, 1);
             }
 
-                
-
-        } 
+        }
     }
 }

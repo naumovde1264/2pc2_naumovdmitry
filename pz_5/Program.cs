@@ -6,8 +6,8 @@ namespace pz_5
     {
 
         static void Main(string[] args)
-         
-      
+
+
         {
             string letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
             Console.WriteLine("задание №1");
@@ -33,15 +33,15 @@ namespace pz_5
             for (g = 0; g < 100; g++)
                 if (g % 5 == 4)
                     Console.Write(g + " ");
-           
-            
 
-                
-                
-          
+
+
+
+
+
 
         }
-        
-           
+
+
     }
 }
