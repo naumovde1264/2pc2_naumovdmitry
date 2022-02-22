@@ -21,6 +21,7 @@ namespace pz_2._5
             Console.WriteLine("users:" + Account3.GetCounter());
             DeletedAccount acc4 = new DeletedAccount("salo", "marylinmanson@gmail.com", 666, "MatItoPloho", d3, "Rugalsa Matom");
             acc4.GetInfo();
+            Console.WriteLine("Hello, World!");
         }
     }
 }
